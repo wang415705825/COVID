@@ -1,4 +1,4 @@
-# COVID
+# GeoCOVID
 
 This repository includes _GeoCOVID_ and _FTF_ indexes as of 2021, following method in Ling, Wang, and Zhou (2020), _Review of Asset Pricing Studies_, and Wang and Zhou (2021).
 
